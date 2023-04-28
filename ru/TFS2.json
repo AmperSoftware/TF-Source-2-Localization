@@ -20,7 +20,7 @@
   "GameMenu.QuitDialog.Description": "Вы уверены, что хотите покинуть сие игровое пространство? Подумайте о ПОСЛЕДСТВИЯХ вашего деяния. Если вы выйдите, то вы НЕ СМОЖЕТЕ вернуться. Это ваш единственный шанс сделать ПРАВИЛЬНЫЙ выбор. ОДУМАЙТЕСЬ.",
   
   "GameScoreboard.Stat.Kills": "Убийств",
-  "GameScoreboard.Stat.Deaths": "Смерти",
+  "GameScoreboard.Stat.Deaths": "Смертей",
   "GameScoreboard.Stat.Assists": "Помощь",
   "GameScoreboard.Stat.Destruction": "Уничтожений",
   "GameScoreboard.Stat.Captures": "Захваты",
