@@ -51,7 +51,7 @@
   "GameSettings.Setting.PlayLastHitSound": "Toista tappo ääni joka kerta, kun tapat vihollisen",
   "GameSettings.Setting.HitSoundVolume": "Osuman äänen voimakkuus",
   "GameSettings.Setting.LastHitSoundVolume": "Tapon äänen voimakkuus",
-  "GameSettings.Setting.GameplayVolume": "Pelin äänenvoimakkuus",
+  "GameSettings.Setting.GameplayVolume": "Pelin äänen voimakkuus",
   "GameSettings.Setting.MedigunAutoHeal": "Medic: Medi Gun jatkaa parantamista ilman tulopainikkeen pitämistä alhaalla.",
   "GameSettings.Setting.AutoZoomIn": "Sniper: Sniperin tarkkuuskivääri zoomaa automaattisesti uudelleen, kun olet ampunut zoomatun laukauksen."
 }
