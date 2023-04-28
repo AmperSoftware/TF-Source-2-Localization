@@ -17,7 +17,7 @@
     "GameMenu.SwitchTeam": "更换队伍",
     "GameMenu.Blog.ReadMore": "在 tfsource2.com 上阅读更多内容",
     "GameMenu.QuitDialog.Title": "你确定吗？",
-    "GameMenu.QuitDialog.Description": "你确定你要退出这个模式吗？ 请你好好想一想你退出的后果. 如果你退出，你之后再也不能玩这个模式. 这是你唯一选择的机会. 请好好想一下。",
+    "GameMenu.QuitDialog.Description": "你确定要退出这个模式吗？ 请你好好想一想你退出的后果。 如果你退出，你之后再也不能玩这个模式。 这是你唯一选择的机会。 请好好想一下。",
   
     "GameScoreboard.Stat.Kills": "击杀次数",
     "GameScoreboard.Stat.Deaths": "死亡次数",
