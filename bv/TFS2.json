@@ -1,0 +1,26 @@
+{
+  "GameSettings.GeneralSettings": "Graffe zum Rumschraumn",
+  "GameSettings.Reset": "Ois zrucksetza",
+  "GameSettings.Close": "Schliaßn",
+
+  "GameSettings.Social.Group": "Ratscherei",
+  "GameSettings.Combat.Group": "G'Fechterei",
+  "GameSettings.Class.Group": "B'sundas fiad Klassn",
+  "GameSettings.Sound.Group": "Greisch",
+  "GameSettings.Other.Group": "Ois ondare",
+
+  "GameSettings.ShowTextChat": "Ratscherai zoang",
+
+  "GameSettings.ViewmodelFov": "Greßn vo da Woffa im Sichtfeid",
+  "GameSettings.AutoReload": "D'Woffn vo alloa nachlon",
+  "GameSettings.FastWeaponSwitch": "D'Woffn schnei wechsln",
+
+  "GameSettings.PlayHitSound": "A Greisch mocha, wennst wen oschiaßt",
+  "GameSettings.PlayLastHitSound": "A Greisch mocha, wennst wen dahaust",
+  "GameSettings.HitSoundVolume": "Oschiaß-Lautstärkn",
+  "GameSettings.LastHitSoundVolume": "Dahau-Lautstärkn",
+  "GameSettings.GameplayVolume": "Spui-Lautstärkn",
+
+  "GameSettings.MedigunAutoHeal": "Sani: As Heilungs-Bier fliast vo seibst",
+  "GameSettings.AutoZoomIn": "Jaga: Nachm Schiaßa mit Zielfernrohr vo alloa wieda zuin"
+}
