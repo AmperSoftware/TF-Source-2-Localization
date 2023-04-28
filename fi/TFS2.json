@@ -40,7 +40,7 @@
   "GameSettings.Reset": "Nollaa Asetukset",
   "GameSettings.Group.Social": "Sosiaalinen",
   "GameSettings.Group.Combat": "Taisteluasetukset",
-  "GameSettings.Group.Class": "Luokkakohtaiset",
+  "GameSettings.Group.Class": "Luokkakohtaiset Asetukset",
   "GameSettings.Group.Sound": "Ääniasetukset",
   "GameSettings.Group.Misc": "Muut Asetukset",
   "GameSettings.Setting.ShowTextChat": "Näytä pelin sisäinen teksikeskustelu",
