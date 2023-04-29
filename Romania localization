@@ -6,7 +6,7 @@
   "Generic.Name": "Nume",
   "Generic.Ping": "Ping",
 
-  "GameMenu.DevNotice": "Încă în dezvoltarea: de așteptat erori și unele lucruri pot să nu fie în joc",
+  "GameMenu.DevNotice": "Încă în dezvoltarea: de așteptat erori și unele lucruri/abilități pot să nu fie în joc",
   "GameMenu.Title.Game": "Joc",
   "GameMenu.Title.Customize": "Modificare",
   "GameMenu.ResumeGame": "Pauză",
@@ -15,7 +15,7 @@
   "GameMenu.Settings": "Setări",
   "GameMenu.ChangeClass": "Schimbă Clasa",
   "GameMenu.SwitchTeam": "Schimbă Echipa",
-  "GameMenu.Blog.ReadMore": "Citește mai mult la tfsource2.com",
+  "GameMenu.Blog.ReadMore": "Citește mai multe informații la tfsource2.com",
   "GameMenu.QuitDialog.Title": "Ești sigur?",
   "GameMenu.QuitDialog.Description": "Ești sigur că vrei să pleci din acest gamemode? Gândiți-vă la consecințele pe care le aduceți efectuarea acestei acțiuni. Dacă renunți, nu vei mai putea juca din nou. Aceasta este singura ta ocazie de a face o alegere. Gândește cu înțelepciune.",
 
@@ -49,8 +49,8 @@
   "GameSettings.Setting.FastWeaponSwitch": "Schimbă arma rapid",
   "GameSettings.Setting.PlayHitSound": "Scoate un sunet atunci când lovești un inamic",
   "GameSettings.Setting.PlayLastHitSound": "Scoate un sunet atunci când omori un inamic",
-  "GameSettings.Setting.HitSoundVolume": "Sunet de lovitură",
-  "GameSettings.Setting.LastHitSoundVolume": "Sunet de Omorâre",
+  "GameSettings.Setting.HitSoundVolume": "Sunet atunci când dai o lovitură",
+  "GameSettings.Setting.LastHitSoundVolume": "Sunet atunci când Omorâre",
   "GameSettings.Setting.GameplayVolume": "Sunetul din joc",
   "GameSettings.Setting.MedigunAutoHeal": "Medic: Medi Gun continuă să se vindece fără să țină apăsat butonul de Atac",
   "GameSettings.Setting.AutoZoomIn": "Sniper: Sniper Rifle va da re-zom de fiecare dată când împușcă "
