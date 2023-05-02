@@ -52,6 +52,6 @@
   "GameSettings.Setting.HitSoundVolume": "Träffljudvolym",
   "GameSettings.Setting.LastHitSoundVolume": "Sista träffljudvolym",
   "GameSettings.Setting.GameplayVolume": "Spelvolym",
-  "GameSettings.Setting.MedigunAutoHeal": "Sjukvårdare: Hälsovapnet fortsätter att hela utan att skjutknappen hålls ned",
+  "GameSettings.Setting.MedigunAutoHeal": "Sjukvårdare: Hälsovapnet fortsätter att läka utan att skjutknappen hålls ned",
   "GameSettings.Setting.AutoZoomIn": "Krypskytt: Krypskjyttegeväret zoomar in igen efter ett avfyrat, zoomat skott"
 }
