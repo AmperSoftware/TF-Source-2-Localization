@@ -53,5 +53,5 @@
     "GameSettings.Setting.LastHitSoundVolume": "击杀音效音量",
     "GameSettings.Setting.GameplayVolume": "游戏音量",
     "GameSettings.Setting.MedigunAutoHeal": "医生: 医疗枪无需按着开火键也会继续回血",
-    "GameSettings.Setting.AutoZoomIn": "狙击手: 狙击枪发射时取景器已经放大下一发会自动放大"
+    "GameSettings.Setting.AutoZoomIn": "狙击手: 狙击枪发射时瞄準鏡已经放大下一发会自动放大"
   }
