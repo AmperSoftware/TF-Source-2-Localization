@@ -11,7 +11,7 @@
     "GameMenu.Title.Customize": "自定義",
     "GameMenu.ResumeGame": "繼續遊戲",
     "GameMenu.JoinGame": "加入遊戲",
-    "GameMenu.Loadout": "装載",
+    "GameMenu.Loadout": "配置",
     "GameMenu.Settings": "設置",
     "GameMenu.ChangeClass": "更改職業",
     "GameMenu.SwitchTeam": "更換隊伍",
@@ -27,7 +27,7 @@
     "GameScoreboard.Stat.Defenses": "防御",
     "GameScoreboard.Stat.Domination": "支配",
     "GameScoreboard.Stat.Revenge": "復仇",
-    "GameScoreboard.Stat.Invulns": "無敵",
+    "GameScoreboard.Stat.Invulns": "無敵ÜberCharge",
     "GameScoreboard.Stat.Headshots": "爆頭",
     "GameScoreboard.Stat.Teleports": "傳送",
     "GameScoreboard.Stat.Healing": "回血",
@@ -53,5 +53,5 @@
     "GameSettings.Setting.LastHitSoundVolume": "擊殺音效音量",
     "GameSettings.Setting.GameplayVolume": "游戲音量",
     "GameSettings.Setting.MedigunAutoHeal": "醫生: 醫療槍不用按着開火鍵也會繼續回血",
-    "GameSettings.Setting.AutoZoomIn": "狙擊手: 狙擊槍發射時已經放大下一發会自動放大"
+    "GameSettings.Setting.AutoZoomIn": "狙擊手: 狙擊槍發射時瞄準鏡已經放大下一發会自動放大"
   }
