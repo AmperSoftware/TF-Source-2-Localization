@@ -11,7 +11,7 @@
     "GameMenu.Title.Customize": "自定义",
     "GameMenu.ResumeGame": "继续游戏",
     "GameMenu.JoinGame": "加入游戏",
-    "GameMenu.Loadout": "装载",
+    "GameMenu.Loadout": "配置",
     "GameMenu.Settings": "设置",
     "GameMenu.ChangeClass": "更改职业",
     "GameMenu.SwitchTeam": "更换队伍",
@@ -27,7 +27,7 @@
     "GameScoreboard.Stat.Defenses": "防御",
     "GameScoreboard.Stat.Domination": "支配",
     "GameScoreboard.Stat.Revenge": "复仇",
-    "GameScoreboard.Stat.Invulns": "无敌",
+    "GameScoreboard.Stat.Invulns": "无敌 Übercharge",
     "GameScoreboard.Stat.Headshots": "爆头",
     "GameScoreboard.Stat.Teleports": "传送",
     "GameScoreboard.Stat.Healing": "回血",
@@ -44,7 +44,7 @@
     "GameSettings.Group.Sound": "音效",
     "GameSettings.Group.Misc": "其他",
     "GameSettings.Setting.ShowTextChat": "显示游戏内对话",
-    "GameSettings.ViewmodelFov": "视图模型视野",
+    "GameSettings.ViewmodelFov": "视图模型(Viewmodel)视野",
     "GameSettings.AutoReload": "当武器不在攻击时自动补充子弹",
     "GameSettings.FastWeaponSwitch": "快速武器切换",
     "GameSettings.Setting.PlayHitSound": "当伤害对手时播放攻击音效",
@@ -52,6 +52,6 @@
     "GameSettings.Setting.HitSoundVolume": "攻击音效音量",
     "GameSettings.Setting.LastHitSoundVolume": "击杀音效音量",
     "GameSettings.Setting.GameplayVolume": "游戏音量",
-    "GameSettings.Setting.MedigunAutoHeal": "医生: 医疗枪不用按着开火键也会继续回血",
-    "GameSettings.Setting.AutoZoomIn": "狙击手: 狙击枪发射时已经放大下一发会自动放大"
+    "GameSettings.Setting.MedigunAutoHeal": "医生: 医疗枪无需按着开火键也会继续回血",
+    "GameSettings.Setting.AutoZoomIn": "狙击手: 狙击枪发射时取景器已经放大下一发会自动放大"
   }
