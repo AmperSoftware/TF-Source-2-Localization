@@ -4,6 +4,7 @@
   "Generic.Reset": "Перезагрузить",
   "Generic.Close": "Закрыть",
   "Generic.Name": "Имя",
+  "Generic.Score": "Очки",
   "Generic.Ping": "Задержка",
   
   "GameMenu.DevNotice": "Эта версия в разработке: ожидаются ошибки и важные функции могут быть недоступны",
@@ -44,6 +45,8 @@
   "GameSettings.Group.Sound": "Звук",
   "GameSettings.Group.Misc": "Прочее",
   "GameSettings.Setting.ShowTextChat": "Показывать внутриигровой чат",
+  "GameSettings.Setting.SayTextTime": "Время перед исчезновением сообщения",
+  "GameSettings.Setting.SayTextFadeTime": "Время исчезновения сообщения",
   "GameSettings.Setting.ViewmodelFov": "Поле зрения",
   "GameSettings.Setting.AutoReload": "Автоматическая перезарядка оружия, когда вы не атакуете",
   "GameSettings.Setting.FastWeaponSwitch": "Быстрая смена оружия",
