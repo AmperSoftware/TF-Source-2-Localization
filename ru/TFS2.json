@@ -7,6 +7,9 @@
   "Generic.Score": "Очки",
   "Generic.Ping": "Задержка",
   
+  "GameState.WaitingForPlayers": "Ожидание игроков",
+  "GameState.Setup": "Подготовка",
+  
   "GameMenu.DevNotice": "Эта версия в разработке: ожидаются ошибки и важные функции могут быть недоступны",
   "GameMenu.Title.Game": "Игра",
   "GameMenu.Title.Customize": "Кастомизация",
