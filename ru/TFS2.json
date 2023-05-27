@@ -10,6 +10,10 @@
   "GameState.WaitingForPlayers": "Ожидание игроков",
   "GameState.Setup": "Подготовка",
   
+  "FreezeCamera.KillerHeader": "Вы были убит",
+  "FreezeCamera.KillerHeaderDead": "Вы были напоследок убиты",
+  "FreezeCamera.NonPlayerName": "Окружение",
+  
   "GameMenu.DevNotice": "Эта версия в разработке: ожидаются ошибки и важные функции могут быть недоступны",
   "GameMenu.Title.Game": "Игра",
   "GameMenu.Title.Customize": "Кастомизация",
