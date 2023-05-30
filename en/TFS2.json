@@ -4,7 +4,15 @@
   "Generic.Reset": "Reset",
   "Generic.Close": "Close",
   "Generic.Name": "Name",
+  "Generic.Score": "Score",
   "Generic.Ping": "Ping",
+
+  "GameState.WaitingForPlayers": "Waiting for Players",
+  "GameState.Setup": "Setup",
+
+  "FreezeCamera.KillerHeader": "You were killed by",
+  "FreezeCamera.KillerHeaderDead": "You were killed by the late",
+  "FreezeCamera.NonPlayerName": "The Environment",
 
   "GameMenu.DevNotice": "In-development build: bugs are to be expected and essential features may be missing",
   "GameMenu.Title.Game": "Game",
@@ -44,6 +52,8 @@
   "GameSettings.Group.Sound": "Sound",
   "GameSettings.Group.Misc": "Miscellaneous",
   "GameSettings.Setting.ShowTextChat": "Show in-game text chat",
+  "GameSettings.Setting.SayTextTime": "Time before message starts fading out",
+  "GameSettings.Setting.SayTextFadeTime": "Message fade-out transition time",
   "GameSettings.Setting.ViewmodelFov": "Viewmodel field of view",
   "GameSettings.Setting.AutoReload": "Automatically reload weapons when you're not firing",
   "GameSettings.Setting.FastWeaponSwitch": "Fast weapon switch",
