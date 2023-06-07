@@ -4,8 +4,8 @@
   "Generic.Reset": "Resetar",
   "Generic.Close": "Fechar",
   "Generic.Name": "Nome",
-  "Generic.Score": "Pontos",
-  "Generic.Ping": "Ping",
+  "Generic.Score": "Pontuação",
+  "Generic.Ping": "Latência",
 
   "GameState.WaitingForPlayers": "Esperando por jogadores",
   "GameState.Setup": "Preparação",
@@ -14,7 +14,7 @@
   "FreezeCamera.KillerHeaderDead": "Você foi morto pelo já falecido",
   "FreezeCamera.NonPlayerName": "O ambiente",
 
-  "GameMenu.DevNotice": "Em desenvolvimento: ocorrerão bugs e adições no futuro",
+  "GameMenu.DevNotice": "Versão Em Desenvolvimento: haverá erros, mudanças e adições no produto final",
   "GameMenu.Title.Game": "Partida",
   "GameMenu.Title.Customize": "Customizar",
   "GameMenu.ResumeGame": "Retomar Partida",
@@ -25,10 +25,9 @@
   "GameMenu.SwitchTeam": "Mudar de Time",
   "GameMenu.Blog.ReadMore": "Leia mais em tfsource2.com",
   "GameMenu.QuitDialog.Title": "Tem certeza?",
-  "GameMenu.QuitDialog.Description": "Are you really sure you want to quit this gamemode? Think about the consequences of you performing this action. If you quit, you will not be able to play it again. This is your only opportunity to make a choice. Think wisely.",
   "GameMenu.QuitDialog.Description": "Tem certeza que você quer sair desta partida? Se você sair, não será possível entrar novamente. Essa é sua única oportunidade para continuar.",
 
-  "GameScoreboard.Stat.Kills": "Abatimentos",
+  "GameScoreboard.Stat.Kills": "Abates",
   "GameScoreboard.Stat.Deaths": "Mortes",
   "GameScoreboard.Stat.Assists": "Assistências",
   "GameScoreboard.Stat.Destruction": "Destruições",
