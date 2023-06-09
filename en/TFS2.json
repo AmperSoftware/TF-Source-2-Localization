@@ -4,11 +4,20 @@
   "Generic.Reset": "Reset",
   "Generic.Close": "Close",
   "Generic.Name": "Name",
+  "Generic.Score": "Score",
   "Generic.Ping": "Ping",
+
+  "GameState.WaitingForPlayers": "Waiting for Players",
+  "GameState.Setup": "Setup",
+
+  "FreezeCamera.KillerHeader": "You were killed by",
+  "FreezeCamera.KillerHeaderDead": "You were killed by the late",
+  "FreezeCamera.NonPlayerName": "The Environment",
 
   "GameMenu.DevNotice": "In-development build: bugs are to be expected and essential features may be missing",
   "GameMenu.Title.Game": "Game",
   "GameMenu.Title.Customize": "Customize",
+  "GameMenu.CreateGame": "Create Game",
   "GameMenu.ResumeGame": "Resume Game",
   "GameMenu.JoinGame": "Join Game",
   "GameMenu.Loadout": "Loadout",
@@ -44,6 +53,8 @@
   "GameSettings.Group.Sound": "Sound",
   "GameSettings.Group.Misc": "Miscellaneous",
   "GameSettings.Setting.ShowTextChat": "Show in-game text chat",
+  "GameSettings.Setting.SayTextTime": "Time before message starts fading out",
+  "GameSettings.Setting.SayTextFadeTime": "Message fade-out transition time",
   "GameSettings.Setting.ViewmodelFov": "Viewmodel field of view",
   "GameSettings.Setting.AutoReload": "Automatically reload weapons when you're not firing",
   "GameSettings.Setting.FastWeaponSwitch": "Fast weapon switch",
@@ -51,6 +62,7 @@
   "GameSettings.Setting.PlayLastHitSound": "Play a last hit sound when one of your attacks kills an enemy",
   "GameSettings.Setting.HitSoundVolume": "Hit sound volume",
   "GameSettings.Setting.LastHitSoundVolume": "Kill sound volume",
+  "GameSettings.Setting.MenuMusicVolume": "Main Menu Music volume",
   "GameSettings.Setting.GameplayVolume": "Gameplay volume",
   "GameSettings.Setting.MedigunAutoHeal": "Medic: Medi Gun continues healing without holding down fire button",
   "GameSettings.Setting.AutoZoomIn": "Sniper: Sniper Rifle will re-zoom after firing a zoomed shot"
