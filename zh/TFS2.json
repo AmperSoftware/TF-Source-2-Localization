@@ -4,11 +4,20 @@
   "Generic.Reset": "重置",
   "Generic.Close": "关闭",
   "Generic.Name": "名称",
+  "Generic.Score": "分数",
   "Generic.Ping": "延迟",
+
+  "GameState.WaitingForPlayers": "正在等待其他玩家",
+  "GameState.Setup": "准备时间",
+
+  "FreezeCamera.KillerHeader": "你被击杀：",
+  "FreezeCamera.KillerHeaderDead": "你被已阵亡的玩家击杀：",
+  "FreezeCamera.NonPlayerName": "环境",
 
   "GameMenu.DevNotice": "处于开发构建版本中：很可能出现错误并且一些必要的功能可能未被实现",
   "GameMenu.Title.Game": "游戏",
   "GameMenu.Title.Customize": "自定义",
+  "GameMenu.CreateGame": "新建游戏",
   "GameMenu.ResumeGame": "继续游戏",
   "GameMenu.JoinGame": "加入游戏",
   "GameMenu.Loadout": "配置",
@@ -44,6 +53,8 @@
   "GameSettings.Group.Sound": "音效",
   "GameSettings.Group.Misc": "其他",
   "GameSettings.Setting.ShowTextChat": "显示游戏内的文字聊天框",
+  "GameSettings.Setting.SayTextTime": "消息显示开始淡化前所需要的时间",
+  "GameSettings.Setting.SayTextFadeTime": "消息显示淡化时间",
   "GameSettings.Setting.ViewmodelFov": "Viewmodel 视场大小",
   "GameSettings.Setting.AutoReload": "当你没有在开火时自动装填",
   "GameSettings.Setting.FastWeaponSwitch": "快速切换武器",
@@ -51,6 +62,7 @@
   "GameSettings.Setting.PlayLastHitSound": "当你击杀一名敌人时播放击杀音效",
   "GameSettings.Setting.HitSoundVolume": "击中音效大小",
   "GameSettings.Setting.LastHitSoundVolume": "击杀音效大小",
+  "GameSettings.Setting.MenuMusicVolume": "主菜单音乐音效大小",
   "GameSettings.Setting.GameplayVolume": "游戏音效大小",
   "GameSettings.Setting.MedigunAutoHeal": "医生：当松开开火键时医疗枪会继续医疗",
   "GameSettings.Setting.AutoZoomIn": "狙击手：当开镜击发一次后狙击枪会再次开镜"
