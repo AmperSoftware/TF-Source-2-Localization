@@ -17,6 +17,7 @@
   "GameMenu.DevNotice": "Эта версия в разработке: ожидаются ошибки, важные функции могут быть недоступны",
   "GameMenu.Title.Game": "Игра",
   "GameMenu.Title.Customize": "Кастомизация",
+  "GameMenu.CreateGame": "Создать игру",
   "GameMenu.ResumeGame": "Продолжить",
   "GameMenu.JoinGame": "Присоединиться",
   "GameMenu.Loadout": "Снаряжение",
@@ -61,6 +62,7 @@
   "GameSettings.Setting.PlayLastHitSound": "Проигрывать звук последнего попадания, когда ваша атака убивает врага",
   "GameSettings.Setting.HitSoundVolume": "Громкость звука попаданий",
   "GameSettings.Setting.LastHitSoundVolume": "Громкость звука убийств",
+  "GameSettings.Setting.MenuMusicVolume": "Громкость музыки в Меню",
   "GameSettings.Setting.GameplayVolume": "Громкость звука",
   "GameSettings.Setting.MedigunAutoHeal": "Медик: мед-пушка продолжит лечение без надобности удерживания кнопки атаки",
   "GameSettings.Setting.AutoZoomIn": "Снайпер: снайперская винтовка возвращается в режим прицелевания после прицельного выстрела"
