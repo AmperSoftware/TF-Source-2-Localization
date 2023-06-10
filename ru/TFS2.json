@@ -3,6 +3,7 @@
   "Generic.Cancel": "Отменить",
   "Generic.Reset": "Перезагрузить",
   "Generic.Close": "Закрыть",
+  "Generic.Back": "Назад",
   "Generic.Name": "Имя",
   "Generic.Score": "Очки",
   "Generic.Ping": "Задержка",
@@ -46,6 +47,8 @@
   "GameScoreboard.Stat.Damage": "Урон",
   
   "GameSettings.Title.Settings": "Настройки",
+  "GameSettings.Inputs": "Клавиатура",
+  "GameSettings.ClientSettings": "Расширенные Настройки",
   "GameSettings.Reset": "Сбросить",
   "GameSettings.Group.Social": "Общение",
   "GameSettings.Group.Combat": "Сражение",
