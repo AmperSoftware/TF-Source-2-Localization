@@ -3,6 +3,7 @@
   "Generic.Cancel": "Cancel",
   "Generic.Reset": "Reset",
   "Generic.Close": "Close",
+  "Generic.Back": "Back",
   "Generic.Name": "Name",
   "Generic.Score": "Score",
   "Generic.Ping": "Ping",
@@ -17,6 +18,7 @@
   "GameMenu.DevNotice": "In-development build: bugs are to be expected and essential features may be missing",
   "GameMenu.Title.Game": "Game",
   "GameMenu.Title.Customize": "Customize",
+  "GameMenu.CreateGame": "Create Game",
   "GameMenu.ResumeGame": "Resume Game",
   "GameMenu.JoinGame": "Join Game",
   "GameMenu.Loadout": "Loadout",
@@ -45,6 +47,8 @@
   "GameScoreboard.Stat.Damage": "Damage",
 
   "GameSettings.Title.Settings": "Settings",
+  "GameSettings.Inputs": "Inputs",
+  "GameSettings.ClientSettings": "Advanced Settings",
   "GameSettings.Reset": "Reset Settings",
   "GameSettings.Group.Social": "Social",
   "GameSettings.Group.Combat": "Combat",
@@ -61,6 +65,7 @@
   "GameSettings.Setting.PlayLastHitSound": "Play a last hit sound when one of your attacks kills an enemy",
   "GameSettings.Setting.HitSoundVolume": "Hit sound volume",
   "GameSettings.Setting.LastHitSoundVolume": "Kill sound volume",
+  "GameSettings.Setting.MenuMusicVolume": "Main Menu Music volume",
   "GameSettings.Setting.GameplayVolume": "Gameplay volume",
   "GameSettings.Setting.MedigunAutoHeal": "Medic: Medi Gun continues healing without holding down fire button",
   "GameSettings.Setting.AutoZoomIn": "Sniper: Sniper Rifle will re-zoom after firing a zoomed shot"
