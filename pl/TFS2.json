@@ -26,7 +26,7 @@
   "GameMenu.ChangeClass": "Zmień klasę",
   "GameMenu.SwitchTeam": "Zmień drużynę",
   "GameMenu.Blog.ReadMore": "Więcej informacji na tfsource2.com",
-  "GameMenu.QuitDialog.Title": "Jesteś pewien?",
+  "GameMenu.QuitDialog.Title": "Czy jesteś pewien?",
   "GameMenu.QuitDialog.Description": "Czy na pewno chcesz opuścić ten tryb gry? Zastanów się nad konsekwencjami podjęcia tej decyzji. Jeśli zrezygnujesz, nie będziesz mógł zagrać ponownie. To twoja jedyna szansa na podjęcie decyzji. Zastanów się mądrze.",
 
   "GameScoreboard.Stat.Kills": "Zabójstwa",
